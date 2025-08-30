@@ -32,11 +32,23 @@ const selectItems = document.querySelectorAll("[data-select-item]");
 const selectValue = document.querySelector("[data-selecct-value]"); // manter igual ao HTML
 const filterBtn = document.querySelectorAll("[data-filter-btn]");
 
-// Normalizador simples para aceitar "all" ou "todos"
+// Normalizador simples para aceitar categorias em português e inglês
 const normalizeSelection = (txt) => {
     const v = (txt || "").toLowerCase().trim();
-    if (v === "todos") return "all";
-    return v;
+
+    // Mapeamentos de categorias traduzidas para os valores de data-category
+    const map = {
+        "todos": "all",
+        "all": "all",
+        "design web": "web design",
+        "web design": "web design",
+        "aplicativos": "applications",
+        "applications": "applications",
+        "desenvolvimento web": "web development",
+        "web development": "web development",
+    };
+
+    return map[v] || v;
 };
 
 if (select) {
