@@ -1,97 +1,97 @@
-Personal Portfolio
+Portfólio Pessoal
 
-# sidebar
+# barra lateral
 
 alt = Richard hanrick
 Richard hanrick
-Web developer
+Desenvolvedor Web
 
-Show Contacts
+Mostrar Contatos
 
-Email
+E-mail
 richard@example.com
 
-Phone
+Telefone
 +1 (213) 352-2795
 
-Birthday
-June 23, 1982
+Aniversário
+23 de junho de 1982
 
-Location
+Localização
 Sacramento, California, USA
 
-# navbar
+# barra de navegação
 
-About
-Resume
-Portfolio
+Sobre
+Currículo
+Portfólio
 Blog
-Contact
+Contato
 
-# about
+# sobre
 
-About me
+Sobre mim
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Sou Diretor Criativo e Designer UI/UX de Sydney, Austrália, atuando em desenvolvimento web e mídia impressa. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
-
-## service
-
-What i'm doing
-
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
-
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Meu trabalho é construir seu site para que seja funcional e fácil de usar, mas ao mesmo tempo atraente. Além disso, adiciono um toque pessoal ao seu produto e garanto que seja chamativo e simples de utilizar. Meu objetivo é transmitir sua mensagem e identidade da maneira mais criativa possível. Criei web design para muitas empresas de marcas famosas.
 
 
-## testimonials
+## serviço
 
-Testimonials
+O que eu faço
+
+alt = ícone de design
+Design Web
+O design mais moderno e de alta qualidade feito em nível profissional.
+
+alt = ícone de desenvolvimento web
+Desenvolvimento Web
+Desenvolvimento de sites de alta qualidade em nível profissional.
+
+alt = ícone de aplicativo móvel
+Aplicativos móveis
+Desenvolvimento profissional de aplicações para iOS e Android.
+
+alt = ícone de câmera
+Fotografia
+Faço fotos de alta qualidade de qualquer categoria em nível profissional.
+
+
+## depoimentos
+
+Depoimentos
 
 alt = Daniel lewis
 Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Jessica miller
 Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Emily evans
 Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Henry william
 Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 
-## clients
+## clientes
 
-Clients
+Clientes
 
 alt = client logo
 
 
 
-# resume
+# currículo
 
-Resume
+Currículo
 
-Education
+Educação
 
 University school of the arts
 2007 — 2008
@@ -105,83 +105,83 @@ High school of art and design
 2002 — 2004
 Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
-Experience
+Experiência
 
-Creative director
-2015 — Present
+Diretor Criativo
+2015 — Presente
 Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
 
-Art director
+Diretor de Arte
 2013 — 2015
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-Web designer
+Designer Web
 2010 — 2013
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-My skills
+Minhas habilidades
 
-Web design
+Design Web
 80%
-Graphic design
+Design gráfico
 70%
-Branding
+Identidade visual
 90%
 WordPress
 50%
 
 
 
-# portfolio
+# portfólio
 
-Portfolio
+Portfólio
 
-All
-Web design
-Applications
-Web development
+Todos
+Design Web
+Aplicativos
+Desenvolvimento Web
 
-Select category
-All
-Web design
-Applications
-Web development
+Selecione a categoria
+Todos
+Design Web
+Aplicativos
+Desenvolvimento Web
 
-alt = finance
-Finance
-Web development
+alt = finanças
+Finanças
+Desenvolvimento Web
 
 alt = orizon
 Orizon
-Web development
+Desenvolvimento Web
 
 alt = fundo
 Fundo
-Web design
+Design Web
 
 alt = brawlhalla
 Brawlhalla
-Applications
+Aplicativos
 
 alt = dsm.
 DSM.
-Web design
+Design Web
 
 alt = metaspark
 MetaSpark
-Web design
+Design Web
 
-alt = summary
-Summary
-Web development
+alt = resumo
+Resumo
+Desenvolvimento Web
 
-alt = task manager
-Task Manager
-Applications
+alt = gerenciador de tarefas
+Gerenciador de Tarefas
+Aplicativos
 
-alt = arrival
-Arrival
-Web development
+alt = chegada
+Chegada
+Desenvolvimento Web
 
 
 
@@ -189,52 +189,52 @@ Web development
 
 Blog
 
-alt = Design conferences in 2022
+alt = Conferências de design em 2022
 Design
-Fab 23, 2022
-Design conferences in 2022
+23 Fev, 2022
+Conferências de design em 2022
 Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
 
-alt = Best fonts every designer
+alt = Melhores fontes para todo designer
 Design
-Fab 23, 2022
-Best fonts every designer
+23 Fev, 2022
+Melhores fontes para todo designer
 Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
 
-alt = Design digest #80
+alt = Digest de design #80
 Design
-Fab 23, 2022
-Design digest #80
+23 Fev, 2022
+Digest de design #80
 Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
 
-alt = UI interactions of the week
+alt = Interações de UI da semana
 Design
-Fab 23, 2022
-UI interactions of the week
+23 Fev, 2022
+Interações de UI da semana
 Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
 
-alt = The forgotten art of spacing
+alt = A arte esquecida do espaçamento
 Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
+23 Fev, 2022
+A arte esquecida do espaçamento
 Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-alt = Design digest #79
+alt = Digest de design #79
 Design
-Fab 23, 2022
-Design Digest #79
+23 Fev, 2022
+Digest de design #79
 Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
 
 
 
-# contact
+# contato
 
-Contact
+Contato
 
-Contact Form
+Formulário de Contato
 
-Full name
-Email address
-Your Message
+Nome completo
+Endereço de e-mail
+Sua mensagem
 
-Send Message
+Enviar Mensagem
