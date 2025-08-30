@@ -1,9 +1,9 @@
 # vCard - Portfólio pessoal
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+![GitHub repo size](https://img.shields.io/github/repo-size/issufibadji/portofilio_mutaro)
+![GitHub stars](https://img.shields.io/github/stars/issufibadji/portofilio_mutaro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/issufibadji/portofilio_mutaro?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/issufibadji_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
 vCard é um site de portfólio pessoal totalmente responsivo para todos os dispositivos, construído com HTML, CSS e JavaScript.
@@ -26,18 +26,18 @@ Para instalar o **vCard**, siga estas etapas:
 Linux e macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/issufibadji/portofilio_mutaro.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/issufibadji/portofilio_mutaro.git
 ```
 
 ## Contato
 
-Se quiser entrar em contato comigo, você pode me encontrar no [Twitter](https://www.twitter.com/codewithsadee).
+Se quiser entrar em contato comigo, você pode me encontrar no [Twitter](https://www.twitter.com/issufibadji).
 
 ## Licença
 
