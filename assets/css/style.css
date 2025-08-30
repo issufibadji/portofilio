@@ -866,6 +866,19 @@ main {
   border-radius: inherit;
 }
 
+/* tools icons */
+
+.dev-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding: 20px;
+}
+
+.dev-icons .icon-box {
+  font-size: 24px;
+}
+
 
 
 
