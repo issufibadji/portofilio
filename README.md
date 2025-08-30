@@ -1,4 +1,4 @@
-# vCard - Portfólio pessoal
+# Portofolio - Portfólio pessoal
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/issufibadji/portofilio_mutaro)
 ![GitHub stars](https://img.shields.io/github/stars/issufibadji/portofilio_mutaro?style=social)
@@ -6,12 +6,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/issufibadji_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-vCard é um site de portfólio pessoal totalmente responsivo para todos os dispositivos, construído com HTML, CSS e JavaScript.
+Portofolio é um site de portfólio pessoal totalmente responsivo para todos os dispositivos, construído com HTML, CSS e JavaScript.
 
 ## Demonstração
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Portofolio Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Portofolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Pré-requisitos
 
@@ -19,9 +19,9 @@ Antes de começar, certifique-se de que você atendeu aos seguintes requisitos:
 
 * [Git](https://git-scm.com/downloads "Download Git") deve estar instalado no seu sistema operacional.
 
-## Instalando vCard
+## Instalando Portofolio
 
-Para instalar o **vCard**, siga estas etapas:
+Para instalar o **Portofolio**, siga estas etapas:
 
 Linux e macOS:
 
