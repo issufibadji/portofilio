@@ -106,27 +106,33 @@ if (form && formBtn) {
 }
 
 /* ------------------------------------------------------------------
- * Navegação entre páginas (tabs): About, Resume, Portfolio, Blog, Contact
- * OBS: Esse código depende do texto dos botões bater com data-page
- *      (ex.: "About" -> data-page="about"). Se traduzir os rótulos,
- *      é melhor trocarmos para um mapeamento por data-atributo.
+ * Navegação entre páginas (tabs) por atributo de dados.
+ * Cada botão possui data-nav-link apontando para o valor data-page
+ * do artigo correspondente.
  * ------------------------------------------------------------------ */
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
 const pages = document.querySelectorAll("[data-page]");
 
-for (let i = 0; i < navigationLinks.length; i++) {
-    navigationLinks[i].addEventListener("click", function() {
+for (const navLink of navigationLinks) {
+    navLink.addEventListener("click", function() {
+        const targetPage = this.dataset.navLink;
 
-        for (let j = 0; j < pages.length; j++) {
-            if (this.innerHTML.toLowerCase() === pages[j].dataset.page) {
-                pages[j].classList.add("active");
-                navigationLinks[j].classList.add("active");
-                window.scrollTo(0, 0);
+        for (const page of pages) {
+            if (page.dataset.page === targetPage) {
+                page.classList.add("active");
             } else {
-                pages[j].classList.remove("active");
-                navigationLinks[j].classList.remove("active");
+                page.classList.remove("active");
             }
         }
 
+        for (const link of navigationLinks) {
+            if (link === this) {
+                link.classList.add("active");
+            } else {
+                link.classList.remove("active");
+            }
+        }
+
+        window.scrollTo(0, 0);
     });
 }
